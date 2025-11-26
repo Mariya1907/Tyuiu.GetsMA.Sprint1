@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.GetsMA.Sprint0.Task29.V0.Lib;
+using Tyuiu.GetsMA.Sprint1.Task0.V29.Lib;
 
-namespace Tyuiu.GetsMA.Sprint0.Task29.V0
+namespace Tyuiu.GetsMA.Sprint1.Task0.V29
 {
     internal class Program
     {
