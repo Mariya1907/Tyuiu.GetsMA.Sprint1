@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tyuiu.GetsMA.Sprint0.Task29", "Tyuiu.GetsMA.Sprint0.Task29", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GetsMA.Sprint1.Task0.V29", "Tyuiu.GetsMA.Sprint0.Task29.V0\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj", "{5B1A3E8E-5BFE-4166-90A6-B8B272B9E605}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GetsMA.Sprint1.Task1.V29", "Tyuiu.GetsMA.Sprint0.Task29.V0\Tyuiu.GetsMA.Sprint1.Task1.V29.csproj", "{5B1A3E8E-5BFE-4166-90A6-B8B272B9E605}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib", "Tyuiu.GetsMA.Sprint0.Task29.Lib\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj", "{EAB8B033-D7FF-4984-8BB9-8645BEDD6C88}"
 EndProject
