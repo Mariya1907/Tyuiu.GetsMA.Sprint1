@@ -54,10 +54,6 @@
       <Project>{eab8b033-d7ff-4984-8bb9-8645bedd6c88}</Project>
       <Name>Tyuiu.GetsMA.Sprint0.Task29.Lib</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Tyuiu.GetsMA.Sprint0.Task29.V0.Test\Tyuiu.GetsMA.Sprint0.Task29.V0.Test.csproj">
-      <Project>{f3c71e20-69de-45c8-bf22-671a82c3832b}</Project>
-      <Name>Tyuiu.GetsMA.Sprint0.Task29.V0.Test</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
