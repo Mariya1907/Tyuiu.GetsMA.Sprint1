@@ -8,9 +8,10 @@ internal class Program
     static void Main()
     {
         ISprint1Task0V29 ds = new DataService();
-        int result = ds.Calculate(); // Вся логика внутри библиотеки
-        Console.WriteLine(result);
+        int result = ds.Calculate();
 
+        // Только число, без слов
+        Console.WriteLine(result);
     }
 }
 
