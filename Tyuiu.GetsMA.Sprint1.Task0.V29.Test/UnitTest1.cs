@@ -9,11 +9,10 @@ namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Test
         [TestMethod]
         public void CheckCalculateValid()
         {
-            ISprint1Task0V29 ds = new DataService();
+            // Теперь используем напрямую DataService
+            var ds = new DataService();
             int res = ds.Calculate();
             Assert.AreEqual(32, res); // Тест проверяет именно DataService
         }
-
     }
 }
-
