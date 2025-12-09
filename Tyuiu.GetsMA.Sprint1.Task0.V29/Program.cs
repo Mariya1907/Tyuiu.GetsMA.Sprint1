@@ -5,6 +5,6 @@ internal class Program
     static void Main()
     {
         ISprint1Task0V29 ds = new DataService();
-        Console.WriteLine(ds.Calculate());
+        Console.WriteLine(ds.Calculate()); // просто выводим результат
     }
 }
