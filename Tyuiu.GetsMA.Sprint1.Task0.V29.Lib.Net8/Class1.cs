@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.Net8
+﻿namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Lib
 {
     public class DataService
     {

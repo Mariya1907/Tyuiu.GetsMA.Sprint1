@@ -1,5 +1,5 @@
 ﻿using System;
-using Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.Net8;
+using Tyuiu.GetsMA.Sprint1.Task0.V29.Lib;
 
 namespace Tyuiu.GetsMA.Sprint1.Task0.V29
 {
