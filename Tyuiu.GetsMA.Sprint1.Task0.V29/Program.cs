@@ -4,7 +4,7 @@ internal class Program
 {
     static void Main()
     {
-        var ds = new DataService();
-        Console.WriteLine(ds.Calculate()); // выводит 32
+        ISprint1Task0V29 ds = new DataService();
+        Console.WriteLine(ds.Calculate());
     }
 }
