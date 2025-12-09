@@ -9,7 +9,8 @@ internal class Program
     {
         ISprint1Task0V29 ds = new DataService();
         int result = ds.Calculate(); // Вся логика внутри библиотеки
-        Console.WriteLine("Ответ: " + result);
+        Console.WriteLine(result);
+
     }
 }
 
