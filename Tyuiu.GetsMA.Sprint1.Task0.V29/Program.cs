@@ -1,6 +1,11 @@
 ﻿using System;
 using Tyuiu.GetsMA.Sprint1.Task0.V29.Lib;
 
+
+ISprint1Task0V29 service = new DataService();
+int result = service.Calculate();
+Console.WriteLine("Ответ: " + result);
+
 namespace Tyuiu.GetsMA.Sprint1.Task0.V29
 {
     internal class Program
