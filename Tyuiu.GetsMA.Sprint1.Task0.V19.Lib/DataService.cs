@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Tyuiu.GetsMA.Sprint1.Task0.V19.Lib
+namespace Tyuiu.GetsMA.Sprint1.Task1.V19.Lib
 {
     public interface IDataService
     {
