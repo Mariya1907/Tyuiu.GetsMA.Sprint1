@@ -11,7 +11,7 @@ namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Test
         {
             ISprint1Task0V29 ds = new DataService();
             int res = ds.Calculate();
-            Assert.AreEqual(32, res); // Тест проверяет именно DataService
+            Assert.AreEqual(32, res); 
         }
     }
 }
