@@ -5,19 +5,20 @@
 		<IsPackable>false</IsPackable>
 		<Nullable>enable</Nullable>
 		<GenerateProgramFile>false</GenerateProgramFile>
-		<OutputType>Library</OutputType>
-		<!-- вот это добавляем -->
 	</PropertyGroup>
 
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
+		<PackageReference Include="MSTest.TestAdapter" Version="3.0.2" />
+		<PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
+	</ItemGroup>
 
 	<ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
-    <PackageReference Include="MSTest.TestAdapter" Version="3.0.2" />
-    <PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
-  </ItemGroup>
+		
+		<ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task1.V19.Lib\Tyuiu.GetsMA.Sprint1.Task1.V19.Lib.csproj" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task0.V19.Lib\Tyuiu.GetsMA.Sprint1.Task1.V19.Lib.csproj" />
-  </ItemGroup>
+
 
 </Project>
+
