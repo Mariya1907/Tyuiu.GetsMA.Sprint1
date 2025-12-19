@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1380-532D-4E3A-9AB1-0D29D3B976F0}|Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1380-532D-4E3A-9AB1-0D29D3B976F0}|Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C8F686-825E-2EBF-D1FE-5B9C26586D1C}|Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C8F686-825E-2EBF-D1FE-5B9C26586D1C}|Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1380-532D-4E3A-9AB1-0D29D3B976F0}|Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE7F1380-532D-4E3A-9AB1-0D29D3B976F0}|Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.test\\tyuiu.getsma.sprint1.task0.v29.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BE17BD9-8074-3523-BFFA-45FD0F6247B0}|Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29.test\\tyuiu.getsma.sprint1.task0.v29.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C8F686-825E-2EBF-D1FE-5B9C26586D1C}|Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj|c:\\users\\mariya\\source\\repos\\tyuiu.getsma.sprint1.task0.v29\\tyuiu.getsma.sprint1.task0.v29.lib\\tyuiu.getsma.sprint1.task0.v29.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6C8F686-825E-2EBF-D1FE-5B9C26586D1C}|Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj|solutionrelative:tyuiu.getsma.sprint1.task0.v29.lib\\tyuiu.getsma.sprint1.task0.v29.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task0.V29",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T10:13:47.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29\\Program.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Program.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:12:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T09:30:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:26:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-09T09:18:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAH4IAAAAAAAAAAArwIwIAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-09T09:13:46.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29\\obj\\Debug\\net8.0\\Tyuiu.GetsMA.Sprint1.Task0.V29.AssemblyInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:57:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\MSTestSettings.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:55:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint1.Task0.V29\\Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task0.V29.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:54:48.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

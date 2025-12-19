@@ -1,0 +1,12 @@
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\bin\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.deps.json
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\bin\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.dll
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\bin\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.pdb
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.AssemblyInfoInputs.cache
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.AssemblyInfo.cs
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.sourcelink.json
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.dll
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\refint\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.dll
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.pdb
+C:\Users\Mariya\source\repos\Tyuiu.GetsMA.Sprint1.Task0.V29\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\obj\Debug\net8.0\ref\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.dll
