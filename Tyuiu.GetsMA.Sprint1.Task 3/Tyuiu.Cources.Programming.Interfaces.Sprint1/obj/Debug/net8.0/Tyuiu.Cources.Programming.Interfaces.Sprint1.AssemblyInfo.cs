@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.Cources.Programming.Interfaces.Sprint1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22362a1ef1a3413b8b7c066118b2f463e88738d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77eb8076ad04c56b8596e0eb3f729fa1ae4a9f56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.Cources.Programming.Interfaces.Sprint1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.Cources.Programming.Interfaces.Sprint1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
