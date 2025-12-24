@@ -1,5 +1,11 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="Tyuiu.GetsMA.Sprint1.Task2.V9.Lib/DataService.cs" />
+    <File Path="Tyuiu.GetsMA.Sprint1.Task2.V9.Test/DataServiceTests.cs" />
+    <File Path="Tyuiu.GetsMA.Sprint1.Task2.V9/Program.cs" />
+  </Folder>
   <Project Path="../../../Tyuiu.GetsMA.Sprint1.Task3.V9/Tyuiu.GetsMA.Sprint1.Task2.V9.Lib/Tyuiu.GetsMA.Sprint1.Task2.V9.Lib.csproj" />
   <Project Path="../../../Tyuiu.GetsMA.Sprint1.Task3.V9/Tyuiu.GetsMA.Sprint1.Task2.V9.Test/Tyuiu.GetsMA.Sprint1.Task2.V9.Test.csproj" />
   <Project Path="../../../Tyuiu.GetsMA.Sprint1.Task3.V9/Tyuiu.GetsMA.Sprint1.Task2.V9/Tyuiu.GetsMA.Sprint1.Task2.V9.csproj" />
+  <Project Path="Tyuiu.Cources.Programming.Interfaces.Sprint1/Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
 </Solution>
