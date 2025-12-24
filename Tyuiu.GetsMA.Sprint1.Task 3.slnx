@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="Tyuiu.GetsMA.Sprint1.Task 3/Tyuiu.GetsMA.Sprint1.Task 3.slnx" />
+  </Folder>
   <Project Path="Tyuiu.Cources.Programming.Interfaces.Sprint2/Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
   <Project Path="Tyuiu.GetsMA.Sprint2.Task3.V19.Lib/Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj" />
   <Project Path="Tyuiu.GetsMA.Sprint2.Task3.V19.Test/Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj" />
