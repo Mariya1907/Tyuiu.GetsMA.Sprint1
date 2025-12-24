@@ -6,7 +6,6 @@ namespace Tyuiu.GetsMA.Sprint1.Task1.V19.Lib
     {
         double Calculate(double x, double y);
     }
-
     public class DataService : IDataService
     {
         public double Calculate(double x, double y)

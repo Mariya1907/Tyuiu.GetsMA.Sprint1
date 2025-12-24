@@ -28,4 +28,5 @@ namespace Tyuiu.GetsMA.Sprint1.Task0.V19.Test
             dataService.Calculate(0, 5);
         }
     }
+
 }
