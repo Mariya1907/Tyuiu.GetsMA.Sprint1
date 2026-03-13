@@ -7,7 +7,7 @@
 
     public class DataService : ISprint1Task0V29
     {
-        public int Calculate()
+        public double Calculate()
         {
             return 2 * 9 + 7 * 2;
         }
