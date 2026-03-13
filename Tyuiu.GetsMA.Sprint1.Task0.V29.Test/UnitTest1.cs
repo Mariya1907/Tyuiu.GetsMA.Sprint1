@@ -10,8 +10,8 @@ namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Test
         public void CheckCalculateValid()
         {
             ISprint1Task0V29 ds = new DataService();
-            int res = ds.Calculate();
-            Assert.AreEqual(32, res); 
+            double res = ds.Calculate();
+            Assert.AreEqual(32, res);
         }
     }
 }

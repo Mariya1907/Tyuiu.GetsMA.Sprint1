@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.GetsMA.Sprint1.Task0.V29")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5831010484bad4f18b1a39d45dc50b6f268f96c0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.GetsMA.Sprint1.Task0.V29")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.GetsMA.Sprint1.Task0.V29")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+
 
 // Создано классом WriteCodeFragment MSBuild.
 
