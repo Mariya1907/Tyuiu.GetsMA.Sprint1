@@ -2,8 +2,9 @@
 {
     public interface ISprint1Task0V29
     {
-        int Calculate();
+        double Calculate();
     }
+
 
     public class DataService : ISprint1Task0V29
     {
