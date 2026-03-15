@@ -14,7 +14,18 @@
           "Tyuiu.GetsMA.Sprint1.Task0.V29.dll": {}
         }
       },
+      "Tyuiu.Cources.Programming.Interfaces.Sprint1/1.0.0": {
+        "runtime": {
+          "Tyuiu.Cources.Programming.Interfaces.Sprint1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib/1.0.0": {
+        "dependencies": {
+          "Tyuiu.Cources.Programming.Interfaces.Sprint1": "1.0.0"
+        },
         "runtime": {
           "Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -26,6 +37,11 @@
   },
   "libraries": {
     "Tyuiu.GetsMA.Sprint1.Task0.V29/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tyuiu.Cources.Programming.Interfaces.Sprint1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
