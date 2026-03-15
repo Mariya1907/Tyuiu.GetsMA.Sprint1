@@ -1,16 +1,15 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿
 using Tyuiu.GetsMA.Sprint1.Task0.V29.Lib;
-
 namespace Tyuiu.GetsMA.Sprint1.Task0.V29.Test
 {
     [TestClass]
     public class DataServiceTest
     {
         [TestMethod]
-        public void CheckCalculateValid()
+        public void ValidExpression()
         {
-            ISprint1Task0V29 ds = new DataService();
-            double res = ds.Calculate();
+            DataService ds = new DataService();
+            var res = ds.Calculate();
             Assert.AreEqual(32, res);
         }
     }

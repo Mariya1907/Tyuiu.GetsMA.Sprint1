@@ -10,5 +10,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib\Tyuiu.GetsMA.Sprint1.Task0.V29.Lib.csproj" />
   </ItemGroup>
+	<PropertyGroup>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	</PropertyGroup>
 
 </Project>
