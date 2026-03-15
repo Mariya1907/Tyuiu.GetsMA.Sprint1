@@ -1,19 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="Tyuiu.Cources.Programming.Interfaces.Sprint2">
-      <HintPath>..\Tyuiu.Cources.Programming.Interfaces.Sprint1\obj\Debug\net8.0\Tyuiu.Cources.Programming.Interfaces.Sprint2.dll</HintPath>
-    </Reference>
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
+	</ItemGroup>
 
 </Project>
