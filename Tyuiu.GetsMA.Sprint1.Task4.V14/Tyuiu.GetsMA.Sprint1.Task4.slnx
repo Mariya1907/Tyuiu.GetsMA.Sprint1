@@ -1,4 +1,11 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Элементы решения/">
+    <File Path="Program.cs" />
+    <File Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Test/Test1.cs" />
+  </Folder>
   <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Lib/Tyuiu.GetsMA.Sprint1.Task4.V14.Lib.csproj" />
   <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Test/Tyuiu.GetsMA.Sprint1.Task4.V14.Test.csproj" />
   <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14/Tyuiu.GetsMA.Sprint1.Task4.V14.csproj" />
