@@ -4,11 +4,12 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
-
 	<ItemGroup>
-		<!-- ✅ ТОЛЬКО ProjectReference! -->
-		<ProjectReference Include="..\..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
+	  <ProjectReference Include="..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
 	</ItemGroup>
-
-	<!-- ❌ УДАЛИ ВСЮ ЭТУ БЛОК! -->
+	<ItemGroup>
+	  <Reference Include="tyuiu.cources.programming.interfaces">
+	    <HintPath>..\..\..\..\..\Desktop\tyuiu.cources.programming.interfaces.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
 </Project>

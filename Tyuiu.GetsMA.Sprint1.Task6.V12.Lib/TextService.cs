@@ -1,28 +1,22 @@
 ﻿using System;
-using tyuiu.cources.programming.interfaces.Sprint1;  // ← проверь using!
+using tyuiu.cources.programming.interfaces.Sprint1;  // ✅ using!
 
 namespace Tyuiu.GetsMA.Sprint1.Task6.V12.Lib
 {
-    public class TextService : ISprint1Task6V12
+    public class TextService : ISprint1Task6V12  // ✅ БЕЗ ПРОБЕЛОВ!
     {
-        // ✅ ИМЯ МЕТОДА ИЗ ИНТЕРФЕЙСА!
-        public bool CheckLastWordRepetiton(string text)
+        public bool CheckLastWordRepetiton(string text)  // ✅ Точное имя!
         {
-            if (string.IsNullOrWhiteSpace(text))
-                return false;
+            if (string.IsNullOrWhiteSpace(text)) return false;
 
-            // Убираем знаки препинания
             text = text.Replace(".", "").Replace(",", "").Replace("!", "").Replace("?", "").Trim();
-
             string[] words = text.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-            if (words.Length < 2)
-                return false;
+            if (words.Length < 2) return false;
 
-            // Предпоследнее == Последнее?
-            return words[^2] == words[^1];
+            return string.Equals(words[^2], words[^1], StringComparison.OrdinalIgnoreCase);
         }
     }
 }
 
-        
+
