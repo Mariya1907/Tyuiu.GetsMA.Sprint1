@@ -1,21 +1,11 @@
-﻿using System;
-
-namespace Tyuiu.GetsMA.Sprint1.Task3.V9.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
+namespace Tyuiu.GetsMA.Sprint1.Task2.V9.Lib
 {
-    public interface IDataService
+    public class DataService : ISprint1Task2V9
     {
-        double CalculateSphereVolume(int radius);
-    }
-
-    public class DataService : IDataService
-    {
-        public double CalculateSphereVolume(int radius)
+        public double CalculateVolumeCircle(int r)
         {
-            if (radius <= 0)
-                throw new ArgumentException("Радиус должен быть больше 0");
-
-            double volume = (4.0 / 3.0) * Math.PI * Math.Pow(radius, 3);
-            return Math.Round(volume, 3);
+            return Math.Round((4.0 / 3 * Math.PI * Math.Pow(r, 3)), 3);
         }
     }
 }
