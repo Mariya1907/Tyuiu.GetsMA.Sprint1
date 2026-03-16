@@ -1,23 +1,22 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyuiu.GetsMA.Sprint2.Task3.V19.Lib;
+using System;
+using Tyuiu.GetsMA.Sprint1.Task3.V19.Lib;
 
-namespace Tyuiu.GetsMA.Sprint2.Task3.V19.Test
+namespace Tyuiu.GetsMA.Sprint1.Task3.V19.Test
 {
     [TestClass]
-    public sealed class ChessServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
-        public void TestBishopMove_True()
+        public void ValidExpression()
         {
-            ChessService cs = new ChessService();
-            Assert.IsTrue(cs.CanBishopMove(1, 1, 3, 3));
-        }
-
-        [TestMethod]
-        public void TestBishopMove_False()
-        {
-            ChessService cs = new ChessService();
-            Assert.IsFalse(cs.CanBishopMove(1, 1, 4, 3));
+            DataService ds = new DataService();
+            double x1 = 2;
+            double x2 = 1;
+            double y1 = 2;
+            double y2 = 1;
+            var res = ds.ElephCanMove(x1, x2, y1, y2);
+            Assert.AreEqual(true, res);
         }
     }
 }

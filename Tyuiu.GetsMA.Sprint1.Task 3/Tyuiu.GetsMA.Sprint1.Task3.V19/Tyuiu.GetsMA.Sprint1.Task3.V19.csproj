@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.Cources.Programming.Interfaces.Sprint2\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
-    <ProjectReference Include="..\Tyuiu.GetsMA.Sprint2.Task3.V19.Lib\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj" />
+    
   </ItemGroup>
 
 </Project>

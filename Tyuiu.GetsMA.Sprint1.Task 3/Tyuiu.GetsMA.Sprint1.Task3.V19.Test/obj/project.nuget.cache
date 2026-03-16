@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZvTNiju0E4E=",
+  "dgSpecHash": "ELh+uL8r0PE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mariya\\source\\repos\\Tyuiu.GetsMA.Sprint2\\Tyuiu.GetsMA.Sprint2.Task 3\\Tyuiu.GetsMA.Sprint2.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
+  "projectFilePath": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mariya\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Mariya\\.nuget\\packages\\microsoft.codecoverage\\18.0.0\\microsoft.codecoverage.18.0.0.nupkg.sha512",

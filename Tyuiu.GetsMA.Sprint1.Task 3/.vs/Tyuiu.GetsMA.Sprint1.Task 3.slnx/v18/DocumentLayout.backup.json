@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD8C6244-DDB9-6B2E-F9BF-D99C1AA5BCF4}|Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19.test\\tyuiu.getsma.sprint1.task3.v19.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD8C6244-DDB9-6B2E-F9BF-D99C1AA5BCF4}|Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19.test\\tyuiu.getsma.sprint1.task3.v19.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8C6244-DDB9-6B2E-F9BF-D99C1AA5BCF4}|Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8C6244-DDB9-6B2E-F9BF-D99C1AA5BCF4}|Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C259B4-5D36-2E6A-3F3C-549767561885}|Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19.lib\\tyuiu.getsma.sprint1.task3.v19.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4C259B4-5D36-2E6A-3F3C-549767561885}|Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19.lib\\tyuiu.getsma.sprint1.task3.v19.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B8C56D-10A7-0643-A906-F7DA3BE4BFE1}|Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19\\tyuiu.getsma.sprint1.task3.v19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91B8C56D-10A7-0643-A906-F7DA3BE4BFE1}|Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19\\tyuiu.getsma.sprint1.task3.v19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C259B4-5D36-2E6A-3F3C-549767561885}|Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C259B4-5D36-2E6A-3F3C-549767561885}|Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B8C56D-10A7-0643-A906-F7DA3BE4BFE1}|Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj|c:\\users\\mariya\\source\\repos\\mariya1907\\tyuiu.getsma.sprint1\\tyuiu.getsma.sprint1.task 3\\tyuiu.getsma.sprint1.task3.v19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B8C56D-10A7-0643-A906-F7DA3BE4BFE1}|Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj|solutionrelative:tyuiu.getsma.sprint1.task3.v19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\.vs\\tasks.vs.json||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -23,19 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task3.V19.Test",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T00:11:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task3.V19",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19\\Tyuiu.GetsMA.Sprint1.Task3.V19.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T00:11:00.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tyuiu.GetsMA.Sprint1.Task3.V19.Lib",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T00:06:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Test1.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Test1.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19.Test\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T23:55:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T23:51:39.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs",
               "ToolTip": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs",
               "RelativeToolTip": "Tyuiu.GetsMA.Sprint1.Task3.V19\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-24T09:22:07.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "tasks.vs.json",
               "DocumentMoniker": "C:\\Users\\Mariya\\source\\repos\\Mariya1907\\Tyuiu.GetsMA.Sprint1\\Tyuiu.GetsMA.Sprint1.Task 3\\.vs\\tasks.vs.json",
               "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
