@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using Tyuiu.GetsMA.Sprint1.Task3.V19.Lib;
 
 namespace Tyuiu.GetsMA.Sprint1.Task3.V19.Test
@@ -16,7 +15,7 @@ namespace Tyuiu.GetsMA.Sprint1.Task3.V19.Test
             double y1 = 2;
             double y2 = 1;
             var res = ds.ElephCanMove(x1, x2, y1, y2);
-            Assert.AreEqual(true, res);
+            Assert.IsTrue(res);  
         }
     }
 }
