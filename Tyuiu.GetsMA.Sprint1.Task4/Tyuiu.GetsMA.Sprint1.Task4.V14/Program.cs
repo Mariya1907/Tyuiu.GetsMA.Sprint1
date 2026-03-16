@@ -1,12 +1,22 @@
-п»їusing Tyuiu.GetsMA.Sprint1.Task4.V14.Lib;
+using Tyuiu.GetsMA.Sprint1.Task4.V14.Lib;
+
+Console.Write("x = ");
+string inputX = Console.ReadLine();
+if (string.IsNullOrEmpty(inputX))
+{
+    Console.WriteLine("Ошибка! Введите число.");
+    return;
+}
+double x = double.Parse(inputX);
+
+Console.Write("y = ");
+string inputY = Console.ReadLine();
+if (string.IsNullOrEmpty(inputY))
+{
+    Console.WriteLine("Ошибка! Введите число.");
+    return;
+}
+double y = double.Parse(inputY);
 
 DataService ds = new DataService();
-
-Console.Write("Р’РІРµРґРёС‚Рµ x: ");
-double x = Convert.ToDouble(Console.ReadLine());
-
-Console.Write("Р’РІРµРґРёС‚Рµ y: ");
-double y = Convert.ToDouble(Console.ReadLine());
-
-double result = ds.Calculate(x, y);
-Console.WriteLine($"Р РµР·СѓР»СЊС‚Р°С‚: {result}");
+Console.WriteLine($"x^y = {ds.Calculate(x, y):F2}");

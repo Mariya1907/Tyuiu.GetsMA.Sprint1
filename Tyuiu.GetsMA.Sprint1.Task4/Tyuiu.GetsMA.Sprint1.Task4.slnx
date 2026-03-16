@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Lib/Tyuiu.GetsMA.Sprint1.Task4.V14.Lib.csproj" />
-  <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Test/Tyuiu.GetsMA.Sprint1.Task4.V14.Test.csproj" />
-  <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14/Tyuiu.GetsMA.Sprint1.Task4.V14.csproj" />
+  <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14.Test/Tyuiu.GetsMA.Sprint1.Task4.V14.Test.csproj" Id="9f956130-c9d8-40c4-b76e-360d4e5e1240" />
+  <Project Path="Tyuiu.GetsMA.Sprint1.Task4.V14/Tyuiu.GetsMA.Sprint1.Task4.V14.csproj" Id="bf157dcd-e092-4634-895a-be8368f8bd76" />
 </Solution>
