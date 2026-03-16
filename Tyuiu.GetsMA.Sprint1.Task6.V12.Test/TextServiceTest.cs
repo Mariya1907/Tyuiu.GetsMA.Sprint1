@@ -7,14 +7,15 @@ namespace Tyuiu.GetsMA.Sprint1.Task6.V12.Test
     public sealed class TextServiceTest
     {
         [TestMethod]
-        public void TestIsLastWordRepeated()
+        public void TestCheckLastWordRepetiton()  // ← Имя метода тоже!
         {
             TextService ts = new TextService();
 
-            Assert.IsTrue(ts.IsLastWordRepeated("Привет мир Привет"));
-            Assert.IsFalse(ts.IsLastWordRepeated("Привет мир"));
-            Assert.IsFalse(ts.IsLastWordRepeated(""));
-            Assert.IsFalse(ts.IsLastWordRepeated("Привет"));
+            // ✅ ПРАВИЛЬНОЕ ИМЯ МЕТОДА ИЗ ИНТЕРФЕЙСА!
+            Assert.IsTrue(ts.CheckLastWordRepetiton("Привет мир Привет"));
+            Assert.IsFalse(ts.CheckLastWordRepetiton("Привет мир"));
+            Assert.IsFalse(ts.CheckLastWordRepetiton(""));
+            Assert.IsFalse(ts.CheckLastWordRepetiton("Привет"));
         }
     }
 }

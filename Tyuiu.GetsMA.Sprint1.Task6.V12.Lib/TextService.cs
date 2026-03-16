@@ -1,32 +1,28 @@
 ﻿using System;
-using Tyuiu.cources.programming.interfaces.Sprint1;
+using tyuiu.cources.programming.interfaces.Sprint1;  // ← проверь using!
 
 namespace Tyuiu.GetsMA.Sprint1.Task6.V12.Lib
 {
-    // Класс должен быть public
     public class TextService : ISprint1Task6V12
     {
-        // Метод должен быть public
-        public bool IsLastWordRepeated(string text)
+        // ✅ ИМЯ МЕТОДА ИЗ ИНТЕРФЕЙСА!
+        public bool CheckLastWordRepetiton(string text)
         {
             if (string.IsNullOrWhiteSpace(text))
                 return false;
+
+            // Убираем знаки препинания
+            text = text.Replace(".", "").Replace(",", "").Replace("!", "").Replace("?", "").Trim();
 
             string[] words = text.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
             if (words.Length < 2)
                 return false;
 
-            string lastWord = words[^1]; // Последнее слово
-
-            // Проверяем, встречается ли оно ранее
-            for (int i = 0; i < words.Length - 1; i++)
-            {
-                if (string.Equals(words[i], lastWord, StringComparison.OrdinalIgnoreCase))
-                    return true;
-            }
-
-            return false;
+            // Предпоследнее == Последнее?
+            return words[^2] == words[^1];
         }
     }
 }
+
+        

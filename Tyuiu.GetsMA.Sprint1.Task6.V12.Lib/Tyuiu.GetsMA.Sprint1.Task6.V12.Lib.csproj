@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="tyuiu.cources.programming.interfaces">
       <HintPath>..\..\..\..\..\Desktop\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
