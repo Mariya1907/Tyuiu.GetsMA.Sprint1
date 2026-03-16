@@ -2,12 +2,11 @@
 
 namespace Tyuiu.GetsMA.Sprint1.Task4.V14
 {
-    class Program  // ← Добавь {}
+    class Program
     {
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
@@ -24,20 +23,20 @@ namespace Tyuiu.GetsMA.Sprint1.Task4.V14
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите значение X:");
-            double x = Convert.ToDouble(Console.ReadLine()!);  // ← double!
+            double x = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Введите значение Y:");
-            double y = Convert.ToDouble(Console.ReadLine()!);  // ← double!
+            double y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
             double result = ds.Calculate(x, y);
-            Console.WriteLine($"√(7 + |x - y|)/(3 * x * y^2) = {result:F3}");  // ← :F3 округление!
+            Console.WriteLine($"√(7 + |x - y|)/(3 * x * y^2) = {result:F3}");
 
-            Console.ReadKey();
+            Console.WriteLine("\nНажмите Enter для выхода...");
+            Console.ReadLine();
         }
     }
 }
-
