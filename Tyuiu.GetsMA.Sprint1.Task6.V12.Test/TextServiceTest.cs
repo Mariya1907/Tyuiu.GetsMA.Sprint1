@@ -7,7 +7,7 @@ namespace Tyuiu.GetsMA.Sprint1.Task6.V12.Test
     public sealed class TextServiceTest
     {
         [TestMethod]
-        public void TestCheckLastWordRepetiton()  // ← Имя метода тоже!
+        public void TestCheckLastWordRepetiton() 
         {
             TextService ts = new TextService();
 
