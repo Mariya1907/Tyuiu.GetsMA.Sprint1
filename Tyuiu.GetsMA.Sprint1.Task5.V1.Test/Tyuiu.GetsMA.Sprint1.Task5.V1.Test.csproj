@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task5.V1.Lib\Tyuiu.GetsMA.Sprint1.Task5.V1.Lib.csproj" />
     <ProjectReference Include="..\Tyuiu.GetsMA.Sprint1.Task5\Tyuiu.GetsMA.Sprint1.Task5.V1.Lib\Tyuiu.GetsMA.Sprint1.Task5.V1.Lib.csproj" />
   </ItemGroup>
 
