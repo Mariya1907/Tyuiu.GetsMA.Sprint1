@@ -1,14 +1,16 @@
-﻿namespace Tyuiu.GetsMA.Sprint1.Task7.V19.Lib
+﻿using System;
+using tyuiu.cources.programming.interfaces.Sprint1;  // ← Работает после копии DLL!
+
+namespace Tyuiu.GetsMA.Sprint1.Task7.V19.Lib
 {
-    public class DataService : ISprint1Task7V19
+    public class DataService : ISprint1Task7V19  // ← Найдётся!
     {
         public double Calculate(double x)
         {
-            double z = x - 7.0 / x
-                       + Math.Sin(x)
-                       + Math.Abs(Math.Pow(x, 4) - Math.Pow(x, 5));
-
-            return Math.Round(z, 3);
+            double z = x - 7.0 / x + Math.Sin(x) + Math.Abs(Math.Pow(x, 4) - Math.Pow(x, 5));
+            return Math.Round(z, 3);  // ✅ Формула правильная!
         }
     }
 }
+
+

@@ -1,18 +1,18 @@
-﻿using Tyuiu.GetsMA.Sprint1.Task7.V19.Lib;
+﻿using System;
+using Tyuiu.GetsMA.Sprint1.Task7.V19;
+using Tyuiu.GetsMA.Sprint1.Task7.V19.Lib;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.Title = "Sprint1.Task7.V19";
-        Console.WriteLine("Введите значение x:");
-
-        double x = Convert.ToDouble(Console.ReadLine());
-
         DataService ds = new DataService();
-        double result = ds.Calculate(x);
-
-        Console.WriteLine("Результат = " + result);
+        Console.WriteLine("Task7 v19");
+        Console.WriteLine("x = ");
+        double x = double.Parse(Console.ReadLine()!);
+        double y = ds.Calculate(x);
+        Console.WriteLine($"y = {y}");
         Console.ReadKey();
     }
 }
+
