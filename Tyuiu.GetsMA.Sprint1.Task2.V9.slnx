@@ -1,5 +1,4 @@
 <Solution>
-  <Folder Name="/Элементы решения/" />
   <Project Path="Tyuiu.Cources.Programming.Interfaces.Sprint1/Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
   <Project Path="Tyuiu.GetsMA.Sprint1.Task2.V9.Lib/Tyuiu.GetsMA.Sprint1.Task2.V9.Lib.csproj" Id="8b8f02a0-db0b-4bca-a969-20b05b7c6f94" />
   <Project Path="Tyuiu.GetsMA.Sprint1.Task2.V9.Test/Tyuiu.GetsMA.Sprint1.Task2.V9.Test.csproj" Id="2356f9d2-e335-42f8-9e11-96ec18f1993b" />

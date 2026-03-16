@@ -1,7 +1,7 @@
 ﻿using System;
 using Tyuiu.GetsMA.Sprint1.Task2.V9.Lib;
 
-namespace Tyuiu.GetsMA.Sprint1.Task2.V9  // ← ИСПРАВЬ namespace!
+namespace Tyuiu.GetsMA.Sprint1.Task2.V9 
 {
     class Program  // ← НЕ Class1!
     {
