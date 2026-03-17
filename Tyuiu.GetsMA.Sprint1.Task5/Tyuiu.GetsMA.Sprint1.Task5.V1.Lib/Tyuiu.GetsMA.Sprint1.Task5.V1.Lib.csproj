@@ -4,9 +4,9 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
-
 	<ItemGroup>
-		<!-- ✅ ТРИ ..\ чтобы подняться на уровень Solutions! -->
-		<ProjectReference Include="..\..\Tyuiu.Cources.Programming.Interfaces.Sprint1\Tyuiu.Cources.Programming.Interfaces.Sprint1.csproj" />
+	  <Reference Include="tyuiu.cources.programming.interfaces">
+	    <HintPath>..\..\Tyuiu.GetsMA.Sprint1.Task5.V1.Lib\tyuiu.cources.programming.interfaces.dll</HintPath>
+	  </Reference>
 	</ItemGroup>
 </Project>
