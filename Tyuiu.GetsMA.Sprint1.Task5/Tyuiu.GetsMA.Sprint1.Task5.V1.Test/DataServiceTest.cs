@@ -1,18 +1,12 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyuiu.GetsMA.Sprint1.Task5.V1.Lib;
-
-namespace Tyuiu.GetsMA.Sprint1.Task5.V1.Test
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
+namespace Tyuiu.GetsMA.Sprint1.Task5.V1.Lib
 {
-    [TestClass]
-    public sealed class DataServiceTest
+    public class DataService : ISprint1Task5V1
     {
-        [TestMethod]
-        public void TestDistanceBetweenPoints()
+        public int DistanceBetweenDots(double x1, double y1, double x2, double y2)
         {
-            DataService ds = new DataService();
-            // Тестируем расстояние между (0,0) и (3,4) → ожидаем 5
-            Assert.AreEqual(5, ds.DistanceBetweenPoints(0, 0, 3, 4));
+            return Convert.ToInt32(Math.Sqrt((Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2))));
+
         }
     }
 }
-
